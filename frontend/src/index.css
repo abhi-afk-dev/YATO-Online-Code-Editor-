@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.robotocondensed-text{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.bungee-text{
+  font-family: 'Bungee Shade', cursive;
+}
